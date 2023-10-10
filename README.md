@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nathimike
 - 👀 I’m interested in programming with Python.
-- 🌱 I’m currently learning cs50.
 - 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me nathimike102@gmail.com
 
