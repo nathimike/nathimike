@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nathimike
-- 👀 I’m interested in Python programming and also C programming. 
+- 👀 I’m interested in Python programming, C programming and C++ Programming. 
 - 💞️ I’m looking to collaborate on everything.
 - 📫 How to reach me nathimike102@gmail.com
 
