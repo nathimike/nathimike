@@ -1,5 +1,10 @@
 # 💫 About Me:
-<br>👋 Hi, I’m @nathimike102<br>👀 I’m interested in Python programming, Java, C programming and C++ Programming.<br>🌱 I’m currently learning B.Tech CSE<br>💞️ I’m looking to collaborate on everything.<br>📫 How to reach me nathimike102@icloud.com<br>😄 Pronouns: He/Him
+<br>👋 Hi, I’m Nkosinathi Michael Sibanda
+<br>👀 I’m interested in Python programming, Java, C programming and C++ Programming.
+<br>🌱 I’m currently learning B.Tech CSE and Trainee at TechnicalHub. 
+<br>💞️ I’m looking to collaborate on everything.
+<br>📫 How to reach me nathimike102@icloud.com
+<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
